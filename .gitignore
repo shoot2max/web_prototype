@@ -1,18 +1,20 @@
-﻿# Python
-venv/
-__pycache__/
-*.pyc
-*.pyo
-
-# Virtual env / local env
-.env
-
-# OS / editor junk
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Logs and DB
-*.log
-*.sqlite3
+# Python 
+__pycache__/ 
+*.pyc 
+*.pyo 
+ 
+# Virtual env 
+venv/ 
+.env 
+ 
+# IDE / OS files 
+.vscode/ 
+.idea/ 
+.DS_Store 
+Thumbs.db 
+ 
+# Logs 
+*.log 
+ 
+# Node (if any) 
+node_modules/ 
